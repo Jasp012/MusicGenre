@@ -1,2 +1,2 @@
 # MusicGenre
-Music Clustering based on playlists
+Music Clustering based on your playlists
